@@ -65,11 +65,6 @@ Transaction monitoring dashboard that analyzes simulated banking transactions us
 - [LinkedIn](https://www.linkedin.com/in/manavparashar26)
 - [CodoLio](https://codolio.com/profile/manavparashar26)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=manav-parashar26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=manav-parashar26&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=manav-parashar26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
